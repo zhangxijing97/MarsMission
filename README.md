@@ -32,7 +32,6 @@ To play Mars Mission, simply open the app and tap on the screen to start the gam
 
 ## Screenshots
 
-Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 <img src="https://github.com/zhangxijing97/MarsMission/blob/main/Screenshots/IMG_1543.PNG" width=25% height=25%>  |  <img src="https://github.com/zhangxijing97/MarsMission/blob/main/Screenshots/IMG_1543.PNG" width=25% height=25%>
 
