@@ -50,4 +50,4 @@ Mars Mission is released under the MIT License. See LICENSE for details.
 
 ## Credits
 
-Mars Mission was created by [Your Name](https://github.com/your-username). The game graphics were designed by [Graphic Designer Name](https://www.graphicdesignerwebsite.com).(https://www.graphicdesignerwebsite.com).
+Mars Mission was created by Xijing Zhang(https://github.com/your-username). The game graphics were designed by Xijing Zhang(https://www.graphicdesignerwebsite.com).(https://www.graphicdesignerwebsite.com).
