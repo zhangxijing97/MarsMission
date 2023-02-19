@@ -32,13 +32,13 @@ To play Mars Mission, simply open the app and tap on the screen to start the gam
 
 ## Screenshots
 
-<img src="[https://your-image-url.type](https://github.com/zhangxijing97/MarsMission/blob/main/Screenshots/IMG_1543.PNG)" width="100">
+<img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width=50% height=50%>
 
-<!-- ![Screenshot 1](https://github.com/zhangxijing97/MarsMission/blob/main/Screenshots/IMG_1543.PNG) -->
+![Screenshot 1](https://github.com/zhangxijing97/MarsMission/blob/main/Screenshots/IMG_1543.PNG)
 
-<!-- ![Screenshot 2](https://github.com/zhangxijing97/MarsMission/blob/main/Screenshots/IMG_4840.PNG) -->
+![Screenshot 2](https://github.com/zhangxijing97/MarsMission/blob/main/Screenshots/IMG_4840.PNG)
 
-<!-- ![Screenshot 3](https://github.com/zhangxijing97/MarsMission/blob/main/Screenshots/IMG_4834.PNG) -->
+![Screenshot 3](https://github.com/zhangxijing97/MarsMission/blob/main/Screenshots/IMG_4834.PNG)
 
 ## Demo
 
