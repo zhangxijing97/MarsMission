@@ -40,9 +40,7 @@ To play Mars Mission, simply open the app and tap on the screen to start the gam
 
 ## Demo
 Watch a demo of the app on YouTube:
-
 [Mars Mission Video 01](https://www.youtube.com/shorts/-Z9S8dimUAo)
-
 [Mars Mission Video 02](https://www.youtube.com/shorts/5gJF1f3nCzs)
 
 ## Contributing
@@ -55,4 +53,4 @@ Mars Mission is released under the MIT License. See LICENSE for details.
 
 ## Credits
 
-Mars Mission was created by Xijing Zhang(https://github.com/your-username). The game graphics were designed by Xijing Zhang(https://www.graphicdesignerwebsite.com).(https://www.graphicdesignerwebsite.com).
+Mars Mission was created by Xijing Zhang([https://github.com/your-username](https://github.com/zhangxijing97)). The game graphics were designed by Xijing Zhang([https://www.graphicdesignerwebsite.com](https://github.com/zhangxijing97)).
