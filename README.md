@@ -26,10 +26,6 @@ cd MarsMission
 open MarsMission.xcodeproj
 ```
 
-## Usage
-
-To play Mars Mission, simply open the app and tap on the screen to start the game. Use your finger to control the spacecraft and navigate through the obstacles. Collect fuel and power-ups to help you reach Mars and land safely.
-
 ## Screenshots
 
 <p float="left">
