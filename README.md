@@ -6,7 +6,7 @@ Mars Mission is is a video game running on the ios platform that challenges play
 
 The game is played by tapping on the screen to thrust the spacecraft and control its movement. The goal is to avoid obstacles such as asteroids and comets, while collecting fuel and power-ups to help the spacecraft reach its destination.
 
-## Technologies
+## Tools and Frameworks
 
 Mars Mission was built using the following technologies:
 
