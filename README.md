@@ -1,6 +1,6 @@
 # Mars Mission
 
-Mars Mission is an iOS game that challenges players to navigate a spacecraft through obstacles and land safely on Mars.
+Mars Mission is is a video game running on the ios platform that challenges players to navigate a spacecraft through obstacles and land safely on Mars.
 
 ## Gameplay
 
