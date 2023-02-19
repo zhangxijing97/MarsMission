@@ -40,8 +40,8 @@ To play Mars Mission, simply open the app and tap on the screen to start the gam
 
 ## Demo
 
-Watch a demo of the app on [YouTube](https://www.youtube.com/watch?v=abc123).
-[![Alt text](https://img.youtube.com/vi/abc123/0.jpg)](https://www.youtube.com/watch?v=abc123)
+Watch a demo of the app on [YouTube](https://www.youtube.com/shorts/-Z9S8dimUAo).
+[![Alt text](https://img.youtube.com/vi/abc123/0.jpg)](https://www.youtube.com/shorts/-Z9S8dimUAo)
 
 ## Contributing
 
