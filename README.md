@@ -12,7 +12,10 @@ Mars Mission was built using the following technologies:
 
 - Swift
 - Xcode
+- UIKit
 - SpriteKit
+- GameplayKit
+- CoreMotion
 
 ## Installation
 
