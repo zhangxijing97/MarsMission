@@ -18,6 +18,10 @@ Mars Mission was built using the following technologies:
 
 To install Mars Mission, simply clone the repository and open the project in Xcode:
 
+git clone https://github.com/your-username/mars-mission.git
+cd mars-mission
+open MarsMission.xcodeproj
+
 ## Usage
 
 To play Mars Mission, simply open the app and tap on the screen to start the game. Use your finger to control the spacecraft and navigate through the obstacles. Collect fuel and power-ups to help you reach Mars and land safely.
