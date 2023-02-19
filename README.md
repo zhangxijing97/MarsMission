@@ -1,20 +1,35 @@
 # Mars Mission
 
-Attendance is an iOS app that allows instructors to keep track of student attendance for classes.
+Mars Mission is an iOS game that challenges players to navigate a spacecraft through obstacles and land safely on Mars.
 
-Features
-Create new classes
-Add students to classes
-Record attendance for each class meeting
-View attendance statistics for each student and class
-Export attendance data as a CSV file
-Technologies
-Attendance was built using the following technologies:
+## Gameplay
 
-Swift
-Xcode
-UIKit
-Core Data
-Charts (third-party library for data visualization)
+The game is played by tapping on the screen to thrust the spacecraft and control its movement. The goal is to avoid obstacles such as asteroids and comets, while collecting fuel and power-ups to help the spacecraft reach its destination.
 
-The name is the mission of the name, the cargo from Earth to Mars. You'll need to fly around the world, possibly avoiding satellites and space stations. As it happens, difficulties will continue to be encountered. When you encounter a situation where you are not physically strong, you may lose your strength. , translate to what you will and complete the task.
+## Technologies
+
+Mars Mission was built using the following technologies:
+
+- Swift
+- Xcode
+- SpriteKit
+
+## Installation
+
+To install Mars Mission, simply clone the repository and open the project in Xcode:
+
+## Usage
+
+To play Mars Mission, simply open the app and tap on the screen to start the game. Use your finger to control the spacecraft and navigate through the obstacles. Collect fuel and power-ups to help you reach Mars and land safely.
+
+## Contributing
+
+If you would like to contribute to Mars Mission, please fork the repository and submit a pull request.
+
+## License
+
+Mars Mission is released under the MIT License. See LICENSE for details.
+
+## Credits
+
+Mars Mission was created by [Your Name](https://github.com/your-username). The game graphics were designed by [Graphic Designer Name](https://www.graphicdesignerwebsite.com).
