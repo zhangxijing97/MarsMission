@@ -20,10 +20,11 @@ Mars Mission was built using the following technologies:
 ## Installation
 
 To install Mars Mission, simply clone the repository and open the project in Xcode:
-
+```
 git clone https://github.com/zhangxijing97/MarsMission.git
 cd mars-mission
 open MarsMission.xcodeproj
+```
 
 ## Usage
 
