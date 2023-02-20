@@ -35,7 +35,7 @@ open MarsMission.xcodeproj
 </p>
 
 ## Demo
-Watch a demo of the app on YouTube:
+Watch a demo of the game on YouTube:
 
 [Mars Mission Video 01](https://www.youtube.com/shorts/-Z9S8dimUAo)
 
